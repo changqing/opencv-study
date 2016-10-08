@@ -1,0 +1,3 @@
+/Users/apple/Documents/code/DisplayImage/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/code/DisplayImage/CMakeFiles/rebuild_cache.dir
+/Users/apple/Documents/code/DisplayImage/CMakeFiles/DisplayImage.dir
