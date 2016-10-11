@@ -1,0 +1,3 @@
+/home/cqye/Documents/opencv-study/openCvSVM/CMakeFiles/rebuild_cache.dir
+/home/cqye/Documents/opencv-study/openCvSVM/CMakeFiles/edit_cache.dir
+/home/cqye/Documents/opencv-study/openCvSVM/CMakeFiles/OpenCVSVM.dir
